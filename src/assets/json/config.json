@@ -6,6 +6,6 @@
   ],
   "botcolor": "#bdff3a",
   "PREFIX": "n",
-  "TOKEN" : "OTgxODQ5NDI2NjMwOTU5MTI0.GzXYqh.SGtR3yAE1oTpgsA3leE-Uk_-Kn7A-bXutLCbLc",
+  "TOKEN" : "",
   "MONGODB": "mongodb+srv://namdb:namdb@namdb.ejygrp5.mongodb.net/?retryWrites=true&w=majority"
 }
